@@ -1,5 +1,5 @@
 # Assignment
 
-- [] git
-- [] github
-- [] flowchart
+- [ ] git
+- [ ] github
+- [ ] flowchart
